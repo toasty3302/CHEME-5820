@@ -1,0 +1,6 @@
+[submodule "lectures"]
+	path = lectures
+	url = https://github.com/toasty3302/CHEME-5820-Lectures-Spring-2026.git
+[submodule "labs"]
+	path = labs
+	url = https://github.com/toasty3302/CHEME-5820-Labs-Spring-2026.git
