@@ -4,3 +4,24 @@
 [submodule "labs"]
 	path = labs
 	url = https://github.com/toasty3302/CHEME-5820-Labs-Spring-2026.git
+[submodule "hw/practicum"]
+	path = hw/practicum
+	url = https://github.com/CHEME-5820-Spring-2026/practicum-5820-s2026-toasty3302
+[submodule "hw/ps6"]
+	path = hw/ps6
+	url = https://github.com/CHEME-5820-Spring-2026/ps6-5820-s26-toasty3302.git
+[submodule "hw/ps5"]
+	path = hw/ps5
+	url = https://github.com/CHEME-5820-Spring-2026/ps5-5820-s26-toasty3302.git
+[submodule "hw/ps4"]
+	path = hw/ps4
+	url = https://github.com/CHEME-5820-Spring-2026/ps4-5820-s26-toasty3302.git
+[submodule "hw/ps3"]
+	path = hw/ps3
+	url = https://github.com/CHEME-5820-Spring-2026/ps3-5820-s26-toasty3302.git
+[submodule "hw/ps2"]
+	path = hw/ps2
+	url = https://github.com/CHEME-5820-Spring-2026/ps2-5820-s26-toasty3302.git
+[submodule "hw/ps1"]
+	path = hw/ps1
+	url = https://github.com/CHEME-5820-Spring-2026/ps1-5820-s26-toasty3302.git
